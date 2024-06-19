@@ -1,2 +1,2 @@
 # autoPolars
-this main purpose of this project is to build a software to  decode NMEA 2000 packet and build polars
+the main objective of this project is to make software to decode NMEA 2000 packets and build polars of the boat
